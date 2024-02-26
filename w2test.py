@@ -1,0 +1,1 @@
+print([x*x for x in [3,4,5]])
